@@ -1,0 +1,8 @@
+
+Day 1 
+1=
+select product_id from products where low_fats='Y' AND recyclable='Y';
+
+
+here need to find that where we have the common element 'y' in both columns from the table products
+  
