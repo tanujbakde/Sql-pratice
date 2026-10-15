@@ -1,0 +1,4 @@
+3=
+select name , population, area from world where population >=25000000 or area>=3000000;
+here i select the name and population and area from the world so , i just need the greater than equaly to the 25 lakhs for the populaiton and 3 lakhs for the area
+  
