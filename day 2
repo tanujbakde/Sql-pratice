@@ -1,0 +1,4 @@
+2=
+select name from customer where referee_id is null  or referee_id!=2;
+here  i need to find the name of customers where the referee id is nulll or not 2 , means it only display the 1  or another number of refereee id 
+  
